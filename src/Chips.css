@@ -1,0 +1,21 @@
+.Chips {
+    background-color: aquamarine;
+    height: 250px;
+    width: 250px;
+}
+
+.VendingMachine-list {
+    list-style: none;
+}
+
+.VendingMachine-link {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(7, 5, 146);
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin: 15px;
+}
+
+
